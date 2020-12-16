@@ -13,3 +13,11 @@ DeepFMによるElkanotoの検証
 ## 参考にしたレポジトリ
 
 https://github.com/pulearn/pulearn
+
+## 実行方法
+- [MovieLens 100K Dataset](https://grouplens.org/datasets/movielens/100k/) 
+を data/original 以下に配置
+
+```
+python train.py
+```
