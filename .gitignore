@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+data/original/ml-100k
+__pycache__/
+.vscode/
+venv/
